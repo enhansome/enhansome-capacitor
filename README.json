@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T13:15:32Z",
+            "last_commit": "2026-08-15T08:24:21Z",
             "owner": "capacitor-community",
             "repo": "admob",
             "stars": 294
@@ -423,7 +423,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T07:32:43Z",
+            "last_commit": "2026-08-15T08:51:42Z",
             "owner": "capacitor-community",
             "repo": "stripe",
             "stars": 248
@@ -605,7 +605,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T07:32:43Z",
+            "last_commit": "2026-08-15T08:24:21Z",
             "owner": "capacitor-community",
             "repo": "facebook-login",
             "stars": 113
@@ -938,7 +938,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T23:40:45Z",
+            "last_commit": "2026-08-15T13:12:03Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 824
@@ -1272,7 +1272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T10:43:37Z",
+            "last_commit": "2026-08-16T00:16:43Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 14
@@ -1328,7 +1328,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-10T07:09:46Z",
+            "last_commit": "2026-08-16T02:58:58Z",
             "owner": "Cap-go",
             "repo": "capacitor-jw-player",
             "stars": 10
@@ -1870,7 +1870,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:30:26Z",
+            "last_commit": "2026-08-15T14:58:00Z",
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
             "stars": 20
@@ -1982,7 +1982,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T23:09:37Z",
+            "last_commit": "2026-08-15T15:41:26Z",
             "owner": "Cap-go",
             "repo": "capacitor-sheets",
             "stars": 6
@@ -2058,7 +2058,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-07T22:57:55Z",
+            "last_commit": "2026-08-15T15:53:37Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-purchases",
             "stars": 47
@@ -2342,7 +2342,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-09T18:58:04Z",
+            "last_commit": "2026-08-15T15:51:58Z",
             "owner": "Cap-go",
             "repo": "capacitor-gtm",
             "stars": 11
@@ -2646,7 +2646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-07T23:00:53Z",
+            "last_commit": "2026-08-15T15:46:24Z",
             "owner": "Cap-go",
             "repo": "capacitor-watch",
             "stars": 12
@@ -3248,7 +3248,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:37:47Z",
+            "last_commit": "2026-08-16T00:10:46Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 231
@@ -3429,8 +3429,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T03:35:53Z",
+            "language": "Swift",
+            "last_commit": "2026-08-15T10:41:34Z",
             "owner": "OrdinarySF",
             "repo": "capacitor-websocket-client",
             "stars": 52
@@ -3500,7 +3500,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-15T03:59:59Z",
+            "last_commit": "2026-08-15T08:24:19Z",
             "owner": "rdlabo-dev",
             "repo": "capacitor-brotherprint",
             "stars": 25
@@ -4473,7 +4473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:58:53.633Z",
+    "last_updated": "2026-08-16T06:00:08.086Z",
     "original_repository": "riderx/awesome-capacitor",
     "original_repository_sha": "0b8284d7808f072ee3330ff447a7f476658a37f9",
     "enhanced_repository": "enhansome/enhansome-capacitor",
