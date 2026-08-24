@@ -536,6 +536,21 @@
         },
         {
           "node_type": "item",
+          "title": "Keep awake",
+          "description": "Prevent your screen from getting some sleep.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225649811,
+            "language": "Swift",
+            "last_commit": "2026-05-27T04:24:57Z",
+            "owner": "capacitor-community",
+            "repo": "keep-awake",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Safe Area",
           "description": "Expose native safe area insets to your web project.",
           "children": [],
@@ -547,21 +562,6 @@
             "owner": "capacitor-community",
             "repo": "safe-area",
             "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keep awake",
-          "description": "Prevent your screen from getting some sleep.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 225649811,
-            "language": "Swift",
-            "last_commit": "2026-05-27T04:24:57Z",
-            "owner": "capacitor-community",
-            "repo": "keep-awake",
-            "stars": 175
           }
         },
         {
@@ -1045,7 +1045,7 @@
                 "archived": false,
                 "id": 420741081,
                 "language": "Java",
-                "last_commit": "2026-08-23T17:10:12Z",
+                "last_commit": "2026-08-24T14:03:04Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
                 "stars": 833
@@ -1060,7 +1060,7 @@
                 "archived": false,
                 "id": 442321089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T23:49:52Z",
+                "last_commit": "2026-08-24T14:17:19Z",
                 "owner": "Cap-go",
                 "repo": "capgo.app",
                 "stars": 205
@@ -1464,7 +1464,7 @@
                 "archived": false,
                 "id": 1073116914,
                 "language": "Java",
-                "last_commit": "2026-08-22T04:44:18Z",
+                "last_commit": "2026-08-24T14:16:54Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-video-player",
                 "stars": 14
@@ -2309,7 +2309,7 @@
                 "archived": false,
                 "id": 677494519,
                 "language": "Java",
-                "last_commit": "2026-08-22T04:24:30Z",
+                "last_commit": "2026-08-24T13:26:05Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-native-purchases",
                 "stars": 47
@@ -3542,7 +3542,7 @@
             "archived": false,
             "id": 427781657,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:11:13Z",
+            "last_commit": "2026-08-24T13:53:07Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 231
@@ -4426,7 +4426,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "code-push",
               "description": "(see details)",
               "children": [],
               "repo_info": {
@@ -4441,7 +4441,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-googlemaps",
               "description": "(causes build failures on iOS, skipped for iOS only)",
               "children": [],
               "repo_info": {
@@ -4456,7 +4456,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-firebase",
               "description": "(see details)",
               "children": [],
               "repo_info": {
@@ -4471,7 +4471,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-crosswalk-webview",
               "description": "(Capacitor doesn't allow to change the webview)",
               "children": [],
               "repo_info": {
@@ -4486,7 +4486,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-admob-pro",
               "description": "(see details)",
               "children": [],
               "repo_info": {
@@ -4501,7 +4501,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-splashscreen",
               "description": "(not needed, Capacitor has its own)",
               "children": [],
               "repo_info": {
@@ -4516,7 +4516,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-fcm",
               "description": "(see details)",
               "children": [],
               "repo_info": {
@@ -4531,7 +4531,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-statusbar",
               "description": "(not needed, Capacitor has its own)",
               "children": [],
               "repo_info": {
@@ -4546,7 +4546,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-wkwebview-engine",
               "description": "(not needed, Capacitor uses WKWebView)",
               "children": [],
               "repo_info": {
@@ -4561,7 +4561,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-qrscanner",
               "description": "(see details)",
               "children": [],
               "repo_info": {
@@ -4576,7 +4576,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-ionic-webview",
               "description": "(not needed, Capacitor uses WKWebView)",
               "children": [],
               "repo_info": {
@@ -4591,7 +4591,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-ionic-keyboard",
               "description": "(not needed, Capacitor has it's own)",
               "children": [],
               "repo_info": {
@@ -4606,7 +4606,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-music-controls-plugin",
               "description": "(causes build failures, skipped)",
               "children": [],
               "repo_info": {
@@ -4621,7 +4621,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-console",
               "description": "(not needed, Capacitor has its own)",
               "children": [],
               "repo_info": {
@@ -4636,7 +4636,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-add-swift-support",
               "description": "(not needed, Capacitor has built in Swift support)",
               "children": [],
               "repo_info": {
@@ -4651,7 +4651,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-compat",
               "description": "(not needed)",
               "children": [],
               "repo_info": {
@@ -4666,7 +4666,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cordova-plugin-braintree",
               "description": "(see details)",
               "children": [],
               "repo_info": {
@@ -4729,7 +4729,7 @@
             "archived": false,
             "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T19:01:30Z",
+            "last_commit": "2026-08-24T06:51:02Z",
             "owner": "AdrienADV",
             "repo": "capstart",
             "stars": 29
@@ -4977,7 +4977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:23:15.870Z",
+    "last_updated": "2026-08-24T14:19:33.587Z",
     "original_repository": "riderx/awesome-capacitor",
     "original_repository_id": 429233609,
     "original_repository_sha": "375e76cd207f8af0c642a39023fdf161f5d5ae2e",
