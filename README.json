@@ -453,7 +453,7 @@
             "archived": false,
             "id": 274447027,
             "language": "Java",
-            "last_commit": "2026-08-23T02:58:07Z",
+            "last_commit": "2026-08-24T05:16:28Z",
             "owner": "capacitor-community",
             "repo": "admob",
             "stars": 294
@@ -1045,7 +1045,7 @@
                 "archived": false,
                 "id": 420741081,
                 "language": "Java",
-                "last_commit": "2026-08-21T21:04:30Z",
+                "last_commit": "2026-08-23T17:10:12Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
                 "stars": 833
@@ -1060,7 +1060,7 @@
                 "archived": false,
                 "id": 442321089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T16:44:44Z",
+                "last_commit": "2026-08-23T23:49:52Z",
                 "owner": "Cap-go",
                 "repo": "capgo.app",
                 "stars": 205
@@ -1075,7 +1075,7 @@
                 "archived": false,
                 "id": 447801603,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T05:09:05Z",
+                "last_commit": "2026-08-24T05:15:26Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-plus",
                 "stars": 20
@@ -2107,7 +2107,7 @@
                 "archived": false,
                 "id": 1126922830,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T15:47:57Z",
+                "last_commit": "2026-08-23T23:47:08Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-transitions",
                 "stars": 20
@@ -4729,10 +4729,10 @@
             "archived": false,
             "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:51:39Z",
+            "last_commit": "2026-08-23T19:01:30Z",
             "owner": "AdrienADV",
             "repo": "capstart",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -4977,7 +4977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:00:08.670Z",
+    "last_updated": "2026-08-24T06:23:15.870Z",
     "original_repository": "riderx/awesome-capacitor",
     "original_repository_id": 429233609,
     "original_repository_sha": "375e76cd207f8af0c642a39023fdf161f5d5ae2e",
