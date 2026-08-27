@@ -938,7 +938,7 @@
                 "archived": false,
                 "id": 195344632,
                 "language": "Java",
-                "last_commit": "2026-08-12T06:19:30Z",
+                "last_commit": "2026-08-27T13:33:55Z",
                 "owner": "capacitor-community",
                 "repo": "firebase-analytics",
                 "stars": 178
@@ -1060,7 +1060,7 @@
                 "archived": false,
                 "id": 442321089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:17:04Z",
+                "last_commit": "2026-08-27T16:43:43Z",
                 "owner": "Cap-go",
                 "repo": "capgo.app",
                 "stars": 205
@@ -1845,7 +1845,7 @@
                 "archived": false,
                 "id": 851610840,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:23:21Z",
+                "last_commit": "2026-08-27T16:01:03Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-social-login",
                 "stars": 218
@@ -1860,7 +1860,7 @@
                 "archived": false,
                 "id": 644150478,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:13:52Z",
+                "last_commit": "2026-08-27T12:20:37Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-native-biometric",
                 "stars": 82
@@ -2309,7 +2309,7 @@
                 "archived": false,
                 "id": 677494519,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:52:25Z",
+                "last_commit": "2026-08-27T12:20:20Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-native-purchases",
                 "stars": 47
@@ -2420,8 +2420,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 1092625661,
-                "language": "Java",
-                "last_commit": "2026-08-27T11:15:47Z",
+                "language": "Swift",
+                "last_commit": "2026-08-27T14:13:46Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-speech-recognition",
                 "stars": 18
@@ -3542,7 +3542,7 @@
             "archived": false,
             "id": 427781657,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:58Z",
+            "last_commit": "2026-08-27T15:07:03Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 231
@@ -4729,7 +4729,7 @@
             "archived": false,
             "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:58:17Z",
+            "last_commit": "2026-08-27T14:54:08Z",
             "owner": "AdrienADV",
             "repo": "capstart",
             "stars": 29
@@ -4977,7 +4977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:48.846Z",
+    "last_updated": "2026-08-27T16:48:15.151Z",
     "original_repository_info": {
       "archived": false,
       "id": 429233609,
