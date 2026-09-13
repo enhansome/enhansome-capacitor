@@ -965,8 +965,8 @@
             "id": 195606666,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:32:22Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-13T04:57:26Z",
+            "open_issues": 94,
             "owner": "capacitor-community",
             "repo": "camera-preview",
             "stars": 227,
@@ -1608,7 +1608,7 @@
                 "open_issues": 29,
                 "owner": "capacitor-community",
                 "repo": "fcm",
-                "stars": 273,
+                "stars": 272,
                 "topics": [
                   "android",
                   "angular",
@@ -1811,7 +1811,7 @@
                 "open_issues": 13,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "android",
                   "capacitor",
@@ -1837,11 +1837,11 @@
                 "id": 442321089,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-11T20:06:26Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-13T10:33:54Z",
+                "open_issues": 32,
                 "owner": "Cap-go",
                 "repo": "capgo.app",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "android",
                   "capacitor",
@@ -1863,11 +1863,11 @@
                 "id": 447801603,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T05:08:22Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-13T05:08:34Z",
+                "open_issues": 34,
                 "owner": "Cap-go",
                 "repo": "capacitor-plus",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -1888,7 +1888,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-live-reload",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -1950,8 +1950,8 @@
                 "id": 1278172201,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-07-11T09:33:47Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-12T22:44:20Z",
+                "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "cordova-updater",
                 "stars": 2,
@@ -2008,7 +2008,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-shake",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2033,7 +2033,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-mute",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2062,7 +2062,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-pedometer",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -2083,7 +2083,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-sim",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2108,7 +2108,7 @@
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-accelerometer",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -2129,7 +2129,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-volume-buttons",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -2153,7 +2153,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-barometer",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -2179,6 +2179,27 @@
                   "capacitor",
                   "capacitor-plugin"
                 ]
+              },
+              "first_seen": "2026-08-28T17:42:13.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Proximity",
+              "description": "Monitor proximity sensor state in mobile apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Capacitor plugin for enabling proximity monitoring in mobile apps.",
+                "homepage": "https://capgo.app/docs/plugins/proximity/",
+                "id": 1042588921,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-08-20T09:47:08Z",
+                "open_issues": 0,
+                "owner": "Cap-go",
+                "repo": "capacitor-proximity",
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
             },
@@ -2227,27 +2248,6 @@
                   "capacitor",
                   "capacitor-plugin"
                 ]
-              },
-              "first_seen": "2026-08-28T17:42:13.669Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Proximity",
-              "description": "Monitor proximity sensor state in mobile apps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Capacitor plugin for enabling proximity monitoring in mobile apps.",
-                "homepage": "https://capgo.app/docs/plugins/proximity/",
-                "id": 1042588921,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-08-20T09:47:08Z",
-                "open_issues": 0,
-                "owner": "Cap-go",
-                "repo": "capacitor-proximity",
-                "stars": 5,
-                "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
             },
@@ -2340,7 +2340,7 @@
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-audio",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "audio",
                   "capacitor",
@@ -2366,7 +2366,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-camera-preview",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2391,7 +2391,7 @@
                 "open_issues": 12,
                 "owner": "Cap-go",
                 "repo": "capacitor-screen-recorder",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2416,7 +2416,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-document-scanner",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -2437,7 +2437,7 @@
                 "open_issues": 3,
                 "owner": "Cap-go",
                 "repo": "capacitor-video-player",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -2461,7 +2461,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-audio-recorder",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -2482,7 +2482,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-photo-library",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "capacitor",
                   "plugin"
@@ -2506,7 +2506,7 @@
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-ivs-player",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -2530,7 +2530,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-ffmpeg",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capgo",
@@ -2556,7 +2556,7 @@
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-jw-player",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "ionic",
@@ -2582,7 +2582,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-mux-player",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "plugin"
@@ -2606,7 +2606,7 @@
                 "open_issues": 9,
                 "owner": "Cap-go",
                 "repo": "capacitor-youtube-player",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -2630,7 +2630,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-media-session",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -2654,7 +2654,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-audiosession",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "audio-session",
                   "capacitor",
@@ -2732,7 +2732,7 @@
                 "open_issues": 9,
                 "owner": "Cap-go",
                 "repo": "capacitor-data-storage-sqlite",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2757,7 +2757,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-uploader",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2782,7 +2782,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-fast-sql",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -2806,7 +2806,7 @@
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-downloader",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -2952,7 +2952,7 @@
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-nativegeocoder",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2979,7 +2979,7 @@
                 "open_issues": 3,
                 "owner": "Cap-go",
                 "repo": "capacitor-background-geolocation",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "capacit",
                   "capacitor-plugin",
@@ -3004,7 +3004,7 @@
                 "open_issues": 10,
                 "owner": "Cap-go",
                 "repo": "capacitor-launch-navigator",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -3056,7 +3056,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-social-login",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3077,11 +3077,11 @@
                 "id": 644150478,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-11T18:07:44Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-12T10:39:59Z",
+                "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-biometric",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3106,7 +3106,7 @@
                 "open_issues": 3,
                 "owner": "Cap-go",
                 "repo": "capacitor-autofill-save-password",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "autofill",
                   "capacitor",
@@ -3133,7 +3133,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-is-root",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "capacitor",
                   "plugin"
@@ -3157,7 +3157,7 @@
                 "open_issues": 3,
                 "owner": "Cap-go",
                 "repo": "capacitor-persistent-account",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "account",
                   "capacitor",
@@ -3361,7 +3361,7 @@
                 "open_issues": 3,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "browser",
                   "capacitor",
@@ -3407,7 +3407,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-navigation-bar",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3432,7 +3432,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-flash",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3453,7 +3453,7 @@
                 "id": 1126922830,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T00:47:15Z",
+                "last_commit": "2026-09-12T14:44:25Z",
                 "open_issues": 9,
                 "owner": "Cap-go",
                 "repo": "capacitor-transitions",
@@ -3480,7 +3480,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-home-indicator",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3505,7 +3505,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-pdf-generator",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -3529,7 +3529,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-textinteraction",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "capacitor",
                   "ionic",
@@ -3599,7 +3599,7 @@
                 "id": 1238000067,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T17:17:32Z",
+                "last_commit": "2026-09-13T07:13:51Z",
                 "open_issues": 10,
                 "owner": "Cap-go",
                 "repo": "capacitor-sheets",
@@ -3763,7 +3763,7 @@
                 "open_issues": 4,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-purchases",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3788,7 +3788,7 @@
                 "open_issues": 9,
                 "owner": "Cap-go",
                 "repo": "capacitor-pay",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -3883,7 +3883,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-nfc",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -3904,7 +3904,7 @@
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-crisp",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "android",
                   "capacitor",
@@ -3928,8 +3928,8 @@
                 "id": 1092625661,
                 "language": "Swift",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-10T06:52:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-12T10:39:13Z",
+                "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-speech-recognition",
                 "stars": 18,
@@ -3953,7 +3953,7 @@
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-ibeacon",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -4122,7 +4122,7 @@
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-streamcall",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -4147,7 +4147,7 @@
                 "open_issues": 9,
                 "owner": "Cap-go",
                 "repo": "capacitor-realtimekit",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -4171,7 +4171,7 @@
                 "open_issues": 10,
                 "owner": "Cap-go",
                 "repo": "capacitor-twilio-voice",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capgo",
@@ -4205,7 +4205,7 @@
                 "open_issues": 10,
                 "owner": "Cap-go",
                 "repo": "capacitor-admob",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -4229,7 +4229,7 @@
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-gtm",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "capacitor",
                   "gmt",
@@ -4255,7 +4255,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-appinsights",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "appinsihgts",
                   "capacitor",
@@ -4393,7 +4393,7 @@
                 "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "capacitor-health",
-                "stars": 28,
+                "stars": 30,
                 "topics": [
                   "capacitor",
                   "ionic",
@@ -4418,7 +4418,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-contacts",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -4467,7 +4467,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-market",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -4523,7 +4523,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-android-kiosk",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
@@ -4547,7 +4547,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-android-usagestatsmanager",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "capacitor",
                   "ionic",
@@ -4572,6 +4572,27 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-android-inline-install",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:42:13.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Android Age Signals",
+              "description": "Exposes Google Play Age Signals to your app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Capacitor plugin to use the Play Age Signals API to retrieve age-related signals for users.",
+                "homepage": "https://capgo.app/docs/plugins/age-signals/",
+                "id": 1083985964,
+                "language": "Java",
+                "license": "MPL-2.0",
+                "last_commit": "2026-09-10T00:43:42Z",
+                "open_issues": 8,
+                "owner": "Cap-go",
+                "repo": "capacitor-android-age-signals",
                 "stars": 9,
                 "topics": []
               },
@@ -4594,27 +4615,6 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-intent-launcher",
                 "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:42:13.669Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Android Age Signals",
-              "description": "Exposes Google Play Age Signals to your app.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Capacitor plugin to use the Play Age Signals API to retrieve age-related signals for users.",
-                "homepage": "https://capgo.app/docs/plugins/age-signals/",
-                "id": 1083985964,
-                "language": "Java",
-                "license": "MPL-2.0",
-                "last_commit": "2026-09-10T00:43:42Z",
-                "open_issues": 8,
-                "owner": "Cap-go",
-                "repo": "capacitor-android-age-signals",
-                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -4663,7 +4663,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-share-target",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -4684,7 +4684,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-wechat",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:13.669Z"
@@ -5061,7 +5061,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-llm",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "capacitor",
                   "capgo",
@@ -5087,7 +5087,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-alarm",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "capacitor",
                   "ionic"
@@ -5111,7 +5111,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-env",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -5251,7 +5251,7 @@
                 "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "capacitor-ricoh360-camera-plugin",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -5326,7 +5326,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-07T15:41:34Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "transistorsoft",
             "repo": "capacitor-background-geolocation",
             "stars": 143,
@@ -5786,7 +5786,7 @@
             "open_issues": 9,
             "owner": "Cap-go",
             "repo": "capacitor-data-storage-sqlite",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "capacitor",
               "capacitor-plugin",
@@ -7523,7 +7523,7 @@
             "id": 1157860871,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:44:00Z",
+            "last_commit": "2026-09-13T06:25:59Z",
             "open_issues": 4,
             "owner": "AdrienADV",
             "repo": "capstart",
@@ -7891,7 +7891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:34:18.706Z",
+    "last_updated": "2026-09-13T10:36:32.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists of capacitor plugins. Made by Capgo",
@@ -7903,7 +7903,7 @@
       "open_issues": 2,
       "owner": "riderx",
       "repo": "awesome-capacitor",
-      "stars": 638,
+      "stars": 639,
       "topics": [
         "awesome",
         "awesome-list",
