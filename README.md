@@ -50,7 +50,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 * [CLI](https://capacitorjs.com/docs/cli) - Command-line reference.
 * [Community](https://capacitorjs.com/community) - Official community hub.
 * [Blog](https://ionic.io/blog/tag/capacitor) - Official blog posts.
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09 - Core runtime source.
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,830 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09 - Core runtime source.
 
 ## Official plugins
 
@@ -94,7 +94,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 * [React hooks](https://github.com/capacitor-community/react-hooks) ⭐ 267 | 🐛 22 | 🌐 TypeScript | 📅 2023-02-28 - Hooks for using Capacitor plugins in React apps.
 * [Background geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 250 | 🐛 24 | 🌐 Java | 📅 2025-08-28 - Receive geolocation updates even while app is backgrounded.
 * [Stripe](https://github.com/capacitor-community/stripe) ⭐ 247 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-06 - SDK bindings for payment processing in Capacitor Applications.
-* [Camera preview](https://github.com/capacitor-community/camera-preview) ⭐ 229 | 🐛 92 | 🌐 Java | 📅 2026-10-04 - Native camera preview with custom controls.
+* [Camera preview](https://github.com/capacitor-community/camera-preview) ⭐ 229 | 🐛 94 | 🌐 Java | 📅 2026-10-11 - Native camera preview with custom controls.
 * [Http](https://github.com/capacitor-community/http) ⚠️ Archived - A native HTTP plugin for CORS-free requests and file transfers.
 * [Safe Area](https://github.com/capacitor-community/safe-area) ⭐ 177 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Expose native safe area insets to your web project.
 * [Keep awake](https://github.com/capacitor-community/keep-awake) ⭐ 174 | 🐛 10 | 🌐 Swift | 📅 2026-05-27 - Prevent your screen from getting some sleep.
@@ -137,12 +137,12 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Core & Updates
 
-* [Updater](https://github.com/Cap-go/capacitor-updater) ⭐ 869 | 🐛 12 | 🌐 Java | 📅 2026-10-10 - Live update for capacitor apps.
-* [Notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 210 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-10 - Send native iOS and Android push notifications with user lookup, badges, and stats.
-* [Capacitor+](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-10 - Always-synced Capacitor fork with community fixes and faster releases.
+* [Updater](https://github.com/Cap-go/capacitor-updater) ⭐ 869 | 🐛 9 | 🌐 Java | 📅 2026-10-11 - Live update for capacitor apps.
+* [Notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 210 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-11 - Send native iOS and Android push notifications with user lookup, badges, and stats.
+* [Capacitor+](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-11 - Always-synced Capacitor fork with community fixes and faster releases.
 * [Live Reload](https://github.com/Cap-go/capacitor-live-reload) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Reload Capacitor apps from a remote Vite dev server.
 * [Electron Updater](https://github.com/Cap-go/electron-updater) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - OTA live updates for Electron apps with the same API as the updater plugin.
-* [Cordova Updater](https://github.com/Cap-go/cordova-updater) ⭐ 3 | 🐛 4 | 🌐 Java | 📅 2026-10-10 - OTA live updates for Cordova iOS and Android with the same API as the updater plugin.
+* [Cordova Updater](https://github.com/Cap-go/cordova-updater) ⭐ 3 | 🐛 3 | 🌐 Java | 📅 2026-10-11 - OTA live updates for Cordova iOS and Android with the same API as the updater plugin.
 * [Capacitor Patch](https://github.com/Cap-go/capacitor-patch) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Apply vetted Capgo patches during cap sync and cap update.
 * [Tauri Updater](https://github.com/Cap-go/tauri-updater) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-11 - OTA live updates for Tauri apps.
 
@@ -220,7 +220,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 ### UI & Display
 
 * [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 134 | 🐛 4 | 🌐 Java | 📅 2026-10-10 - Native in-app browser for secure web content.
-* [Native Navigation](https://github.com/Cap-go/capacitor-native-navigation) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2026-10-10 - Native navbar, tabbar, safe-area handling, and WebView transitions.
+* [Native Navigation](https://github.com/Cap-go/capacitor-native-navigation) ⭐ 41 | 🐛 2 | 🌐 Swift | 📅 2026-10-11 - Native navbar, tabbar, safe-area handling, and WebView transitions.
 * [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Set navigation bar color for Android Lollipop and higher.
 * [Flash](https://github.com/Cap-go/capacitor-flash) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Switch the Flashlight / Torch of your device.
 * [Transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-08 - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
@@ -341,7 +341,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) and maintained by [@christocracy](https://github.com/christocracy).
 
-* [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+* [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-10 - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 * [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-21 - Periodic callbacks in the background for both iOS and Android.
 * [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-05 - Firebase adapter for Capacitor Background Geolocation.
 
@@ -359,7 +359,7 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 
 Independents plugins are listed here.
 
-* [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) ⭐ 280 | 🐛 63 | 🌐 Java | 📅 2026-09-09 - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+* [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) ⭐ 280 | 🐛 63 | 🌐 Java | 📅 2026-10-11 - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
 
 * [Rate app](https://github.com/Nodonisko/capacitor-rate-app) ⭐ 237 | 🐛 8 | 🌐 Swift | 📅 2026-07-02 - Let users rate your app using native rate app dialog for both Android and iOS.
 
@@ -385,7 +385,7 @@ Independents plugins are listed here.
 
 * [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) ⭐ 89 | 🐛 13 | 🌐 Swift | 📅 2025-02-13 - Retrieve data from HealthKit.
 
-* [Capacitor Calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 87 | 🐛 6 | 🌐 Swift | 📅 2026-10-08 - A plugin for interacting with calendar and reminders.
+* [Capacitor Calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 87 | 🐛 6 | 🌐 Swift | 📅 2026-10-11 - A plugin for interacting with calendar and reminders.
 
 * [Navigation bar](https://github.com/hugotomazi/navigation-bar) ⭐ 83 | 🐛 10 | 🌐 TypeScript | 📅 2024-06-23 - Manipulation and control of the navigation bar visibility.
 
@@ -393,7 +393,7 @@ Independents plugins are listed here.
 
 * [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) ⭐ 42 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 
-* [Playlist](https://github.com/phiamo/capacitor-plugin-playlist) ⭐ 32 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-04 - Native support for audio playlists, background support, and lock screen controls.
+* [Playlist](https://github.com/phiamo/capacitor-plugin-playlist) ⭐ 32 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-11 - Native support for audio playlists, background support, and lock screen controls.
 
 * [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-25 - Terminal plugin for in-person payment processing.
 
@@ -417,7 +417,7 @@ Independents plugins are listed here.
 
 * [Shamir](https://github.com/vault12/capacitor-shamir) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-08-26 - Shamir's Secret Sharing cryptographic algorithm.
 
-* [Native Audio Player](https://github.com/smartcompanion-app/native-audio-player) ⭐ 5 | 🐛 11 | 🌐 Java | 📅 2026-10-01 - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
+* [Native Audio Player](https://github.com/smartcompanion-app/native-audio-player) ⭐ 5 | 🐛 8 | 🌐 Java | 📅 2026-10-10 - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 
 * [PQ Secure Storage](https://github.com/jimcase/capacitor-pq-secure-storage) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-16 - Post-quantum signing (ML-DSA) and key encapsulation (ML-KEM) with keys held in the iOS Secure Enclave and the Android Keystore, plus biometric-gated secure storage.
 
@@ -483,26 +483,27 @@ This list will be upgraded soon
 
 * [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ⚠️ Archived ([see details](https://github.com/microsoft/code-push/issues/615) ⚠️ Archived)
 * [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) ⭐ 1,671 | 🐛 107 | 🌐 JavaScript | 📅 2024-06-10 (causes build failures on iOS, skipped for iOS only)
-* [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ⭐ 1,001 | 🐛 249 | 🌐 Objective-C | 📅 2024-07-09 ([see details](https://github.com/ionic-team/capacitor/issues/815) ⭐ 16,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
+* [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ⭐ 1,001 | 🐛 249 | 🌐 Objective-C | 📅 2024-07-09 ([see details](https://github.com/ionic-team/capacitor/issues/815) ⭐ 16,830 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
 * [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) ⚠️ Archived (Capacitor doesn't allow to change the webview)
-* [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ⭐ 719 | 🐛 62 | 🌐 Java | 📅 2023-07-19 ([see details](https://github.com/ionic-team/capacitor/issues/1101) ⭐ 16,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
+* [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ⭐ 718 | 🐛 62 | 🌐 Java | 📅 2023-07-19 ([see details](https://github.com/ionic-team/capacitor/issues/1101) ⭐ 16,830 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
 * [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) ⭐ 639 | 🐛 8 | 🌐 JavaScript | 📅 2026-07-27 (not needed, Capacitor has its own)
-* [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ⭐ 618 | 🐛 467 | 🌐 Objective-C | 📅 2021-10-19 ([see details](https://github.com/ionic-team/capacitor/issues/584) ⭐ 16,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
+* [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ⭐ 618 | 🐛 467 | 🌐 Objective-C | 📅 2021-10-19 ([see details](https://github.com/ionic-team/capacitor/issues/584) ⭐ 16,830 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
 * [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) ⭐ 615 | 🐛 2 | 🌐 Objective-C | 📅 2026-10-05 (not needed, Capacitor has its own)
 * [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) ⚠️ Archived (not needed, Capacitor uses WKWebView)
-* [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ⭐ 581 | 🐛 206 | 🌐 JavaScript | 📅 2023-09-01 ([see details](https://github.com/ionic-team/capacitor/issues/1213) ⭐ 16,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
+* [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ⭐ 581 | 🐛 206 | 🌐 JavaScript | 📅 2023-09-01 ([see details](https://github.com/ionic-team/capacitor/issues/1213) ⭐ 16,830 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
 * [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) ⭐ 491 | 🐛 173 | 🌐 Objective-C | 📅 2026-01-22 (not needed, Capacitor uses WKWebView)
 * [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) ⭐ 193 | 🐛 77 | 🌐 Objective-C | 📅 2023-09-28 (not needed, Capacitor has it's own)
 * [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) ⭐ 153 | 🐛 70 | 🌐 Java | 📅 2019-10-14 (causes build failures, skipped)
 * [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) ⚠️ Archived (not needed, Capacitor has its own)
 * [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) ⭐ 118 | 🐛 31 | 🌐 JavaScript | 📅 2024-01-12 (not needed, Capacitor has built in Swift support)
 * [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) ⚠️ Archived (not needed)
-* [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ⭐ 27 | 🐛 50 | 🌐 Objective-C | 📅 2020-06-11 ([see details](https://github.com/ionic-team/capacitor/issues/1415) ⭐ 16,822 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
+* [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ⭐ 27 | 🐛 50 | 🌐 Objective-C | 📅 2020-06-11 ([see details](https://github.com/ionic-team/capacitor/issues/1415) ⭐ 16,830 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09)
 
 ## Tools
 
 * [Assets](https://github.com/ionic-team/capacitor-assets) ⭐ 584 | 🐛 87 | 🌐 TypeScript | 📅 2026-10-07 - Local Capacitor icon/splash screen resource generation tool.
 * [Plugin generator](https://github.com/ionic-team/create-capacitor-plugin) ⭐ 123 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-09 - Create a new Capacitor plugin.
+* [Capgo Skills](https://github.com/Cap-go/capgo-skills) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-11 - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Works with Claude Code, Cursor, Codex, and Gemini CLI.
 * [Capstart](https://github.com/AdrienADV/capstart) ⭐ 30 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-10 - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
 * [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) ⭐ 22 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-06 - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies.
 * [lazycap](https://github.com/icarus-itcs/lazycap) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2026-08-31 - Terminal dashboard for Capacitor development with device management, builds, live reload, debugging, and AI assistant integration via MCP.
@@ -514,7 +515,6 @@ This list will be upgraded soon
 * [Live Update Action](https://github.com/Cap-go/live-update-action) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-23 - GitHub Action to deploy a live update.
 * [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-13 - Automate live updates and native builds from n8n workflows.
 * [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
-* [Capgo Skills](https://capgo.app/skills/) - Check your Capacitor app compatibility and skills.
 * [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 * [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
 * [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association (AASA) configuration.
@@ -624,7 +624,7 @@ Production apps whose use of Capacitor is publicly documented.
 ## Related lists
 
 * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,459 | 🐛 14 | 📅 2021-04-18 - Curated list of Ionic resources.
-* [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) ⭐ 863 | 🐛 1 | 📅 2026-08-18 - Curated list of Ionic Framework resources.
+* [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) ⭐ 863 | 🐛 1 | 📅 2026-10-11 - Curated list of Ionic Framework resources.
 
 ## Community
 
@@ -652,4 +652,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) - fir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
